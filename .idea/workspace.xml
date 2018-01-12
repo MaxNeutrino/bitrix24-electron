@@ -1,7 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2aa28ad-294b-45ea-95f0-8e320bdec3c2" name="Default" comment="" />
+    <list default="true" id="e2aa28ad-294b-45ea-95f0-8e320bdec3c2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/LICENSES.chromium.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/bitrix" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/blink_image_resources_200_percent.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/content_resources_200_percent.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/content_shell.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/icudtl.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/libffmpeg.so" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/libnode.so" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/am.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/ar.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/bg.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/bn.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/ca.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/cs.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/da.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/de.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/el.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/en-GB.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/en-US.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/es-419.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/es.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/et.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/fa.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/fake-bidi.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/fi.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/fil.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/fr.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/gu.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/he.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/hi.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/hr.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/hu.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/id.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/it.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/ja.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/kn.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/ko.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/lt.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/lv.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/ml.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/mr.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/ms.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/nb.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/nl.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/pl.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/pt-BR.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/pt-PT.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/ro.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/ru.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/sk.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/sl.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/sr.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/sv.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/sw.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/ta.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/te.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/th.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/tr.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/uk.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/vi.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/zh-CN.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/locales/zh-TW.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/natives_blob.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/pdf_viewer_resources.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/resources/app/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/resources/app/.idea/bitrix.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/resources/app/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/resources/app/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/resources/app/.idea/watcherTasks.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/resources/app/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/resources/app/LICENSE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/resources/app/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/resources/app/bitrix.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/resources/app/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/resources/app/main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/resources/app/package-lock.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/resources/app/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/resources/app/renderer.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/resources/electron.asar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/snapshot_blob.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/ui_resources_200_percent.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/version" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bitrix-linux-x64/views_resources_200_percent.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/main.js" afterPath="$PROJECT_DIR$/main.js" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,12 +102,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+            <state relative-caret-position="266">
+              <caret line="57" column="7" lean-forward="false" selection-start-line="57" selection-start-column="6" selection-end-line="57" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -27,7 +136,7 @@
       <file leaf-file-name="electron.d.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/node_modules/electron/electron.d.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
+            <state relative-caret-position="42465">
               <caret line="2834" column="8" lean-forward="false" selection-start-line="2834" selection-start-column="8" selection-end-line="2834" selection-end-column="8" />
               <folding />
             </state>
@@ -36,12 +145,19 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>event.preventDefault();</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/main.js" />
       </list>
     </option>
@@ -56,10 +172,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="242" />
-    <option name="y" value="170" />
-    <option name="width" value="1242" />
-    <option name="height" value="715" />
+    <option name="x" value="2245" />
+    <option name="y" value="157" />
+    <option name="width" value="1232" />
+    <option name="height" value="711" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -77,8 +193,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -86,15 +200,12 @@
               <item name="bitrix" type="b2602c69:ProjectViewProjectNode" />
               <item name="bitrix" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="bitrix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bitrix" type="462c0819:PsiDirectoryNode" />
-              <item name="bitrix-linux-x64" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -131,33 +242,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515683290906</updated>
-      <workItem from="1515683292115" duration="2534000" />
+      <workItem from="1515683292115" duration="3258000" />
+      <workItem from="1515755511076" duration="1196000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2534000" />
+    <option name="totallyTimeSpent" value="4454000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="242" y="170" width="1865" height="1055" extended-state="6" />
+    <frame x="1920" y="25" width="1920" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2529859" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24565102" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33798283" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33727175" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -172,18 +285,58 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/electron/electron.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
+        <state relative-caret-position="42510">
           <caret line="2834" column="8" lean-forward="false" selection-start-line="2834" selection-start-column="8" selection-end-line="2834" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/electron/electron.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42465">
+          <caret line="2834" column="8" lean-forward="false" selection-start-line="2834" selection-start-column="8" selection-end-line="2834" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        <state relative-caret-position="266">
+          <caret line="57" column="7" lean-forward="false" selection-start-line="57" selection-start-column="6" selection-end-line="57" selection-end-column="7" />
           <folding />
         </state>
       </provider>

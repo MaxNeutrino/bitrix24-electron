@@ -52,6 +52,10 @@ function createWindow() {
     mainWindow.on('hide', () => {
         tray.setHighlightMode('never')
     });
+    mainWindow.on('close', (event) => {
+       event.preventDefault();
+       mainWindow.hide();
+    });
 
     tray.setContextMenu(contextMenu)
 }
